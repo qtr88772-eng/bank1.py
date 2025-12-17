@@ -32,7 +32,14 @@ Evaluated with accuracy, confusion matrix, ROC curve.
 
 Streamlit Dashboard
 
-Built interactive widgets (dropdowns, sliders).
+Built interactive widgets (dropdowns, sliders,streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+scikit-learn).
 
 Displayed tables, charts, model results.
 
